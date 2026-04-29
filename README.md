@@ -90,7 +90,7 @@ README.md
 
 For complete analysis and SQL queries:
 
-[Download Report](reports/restaurant_analysis_report.pdf)
+[Download Report](reports/restaurant_Analysis_report.pdf)
 
 ## Conclusion
 
